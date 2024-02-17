@@ -25,8 +25,6 @@
   <a href="https://www.linkedin.com/in/webertt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/Webertt-Coutinho/Webertt-Coutinho/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <h1 style="color: #1E69DE">Certificados:</h1>
   <h3 style="color: 7ab6ff">🎓 Bacharelado em Engenharia da Computação - 2019/2024 <img height="20" width="40" src="tube-spinner.svg" style="margin-bottom: -5px"></h3>
