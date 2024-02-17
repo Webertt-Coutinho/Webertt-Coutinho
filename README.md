@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/5c394506444d16d39a64d87b07dcbf21.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Tecnologias <3</h1>
     <img align="center" height="30" width="30" alt="delphi-icon"  src="https://img.icons8.com/officel/40/delphi-ide.png">
     <img align="center" height="30" width="30" alt="html-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="30" alt="css-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,3 +24,5 @@
   <a href = "mailto:webertt.coutinho@gmail.com" style="margin-right: 10px;"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/webertt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/Webertt-Coutinho/Webertt-Coutinho/blob/output/github-contribution-grid-snake.svg)
