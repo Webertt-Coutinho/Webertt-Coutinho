@@ -26,3 +26,12 @@
 </div>
 
 ![Snake animation](https://github.com/Webertt-Coutinho/Webertt-Coutinho/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <h1 style="color: #1E69DE">Certificados:</h1>
+  <h3 style="color: 7ab6ff">🎓 Bacharelado em Engenharia da Computação - 2019/2024 <img height="20" width="40" src="tube-spinner.svg" style="margin-bottom: -5px"></h3>
+  <p><a style="color: #FFFFFF" href="https://www.origamid.com/certificate/8c8526b4">HTML e CSS para Iniciantes</a> ✅</p>
+  <p><a style="color: #FFFFFF" href="https://www.origamid.com/certificate/ab72221f">UI Design para Iniciantes</a> ✅</p>
+  <p><a style="color: #FFFFFF" href="https://www.origamid.com/certificate/ec2156e1">CSS FlexBox</a> ✅</p>
+  <p><a style="color: #FFFFFF">JavaScript Avançado . . . em andamento</a> <img height="20" width="40" src="tube-spinner.svg" style="margin-bottom: -5px"></img></p> 
+</div><br>
